@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/download.jpeg');
     font-family: Bai Jamjuree;
 }
 
@@ -27,7 +27,7 @@ body {
 .cartao__conteudo {
     background-color: var(--card-front-color);
     text-align: center;
-    /* background-color: aquamarine; */
+    /* background-color: gray; */
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
